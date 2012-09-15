@@ -1,0 +1,7 @@
+{
+    "name": "bsrykt/twitter-bootstrap",
+    "description": "Html, CSS and JS toolkit from Twitter",
+    "keywords": ["css","less","bootstrap"],
+    "homepage": "http://twitter.github.com/bootstrap/",
+    "license": "Apache-2.0"
+}
